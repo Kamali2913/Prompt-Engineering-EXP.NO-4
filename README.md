@@ -40,5 +40,7 @@ Everyday Functioning Prompts:
   “How is encryption used in daily life when sending WhatsApp messages?”
 
   OUTPUT:
+  [text](<../../../../../Documents/math r/exp4 prompt.pdf>)
 
   RESULT:
+Thus, prompts for Comparative Analysis Prompt, Experiential Perspective Prompt, and Everyday Functioning Prompt were successfully generated for the given smartphone use case.
